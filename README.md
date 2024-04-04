@@ -2,6 +2,8 @@
 <ul>
   <li>Tugas: Tugas Pertemuan 5 Web Programming 2</li>
   <li>Nama: Reihan Aulia Darojat</li>
+  <li>NIM: 21552011125</li>
+  <li>Kelas: 221PA - Semester 6</li>
 </ul>
 
 # Perpustakaan PHP
