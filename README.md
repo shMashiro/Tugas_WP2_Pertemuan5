@@ -8,9 +8,6 @@
 
 # Perpustakaan PHP
 
-## Deskripsi
-Perpustakaan PHP adalah program sederhana yang mensimulasikan fungsi dasar dari sebuah perpustakaan, seperti menambahkan buku, meminjam buku, mengembalikan buku, dan mencetak daftar buku yang tersedia. Program ini ditulis menggunakan bahasa pemrograman PHP.
-
 ## Fitur
 - Menambahkan buku baru ke dalam perpustakaan.
 - Meminjam buku dari perpustakaan.
